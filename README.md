@@ -1,0 +1,1 @@
+The simple serverless backend for [nyaflix](https://github.com/shimoe2028/nyaflix)
